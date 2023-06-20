@@ -1,0 +1,23 @@
+#main {
+    border: 3px solid black;
+    width: 800px;
+    height: 480px;
+    cursor: none;
+   
+}
+
+.image {
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.player {
+position: absolute;
+z-index: 10;
+}
+
+button {
+    margin-bottom: 100px;
+}
+
+
